@@ -12,7 +12,7 @@ ReadGen is a command-line application that dynamically generates professional RE
 - [Questions](#questions)
 
 ## Usage
-To use ReadGen, run the command `node index.js` in your terminal. Follow the prompts to enter information about your project, and a README.md file will be generated.
+To use ReadGen, run the command `node index.js` in your terminal. Follow the prompts to enter information about your project, and a README.md file will be generated. [Video of application during use.](https://app.screencastify.com/v3/watch/5IWYhQBueya8iJFfmEOy)
 
 ## Installation
 Clone the ReadGen repository from GitHub using 'git clone' followed by the URL of the repository paste it into your terminal, navigate to the project directory and run `npm install` to install the required dependencies.
