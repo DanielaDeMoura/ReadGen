@@ -27,8 +27,10 @@ ${data.tests}
 
 ## License
 This project is licensed under the ${data.license} License. 
+
 ## Questions
 For questions or concerns, please contact me via [GitHub](https://github.com/${data.username}) or email me at ${data.email}.
+
 `;
 }
 
